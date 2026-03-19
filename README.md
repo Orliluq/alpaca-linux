@@ -5,13 +5,13 @@
 ![ML Powered](https://img.shields.io/badge/ML-powered-blue)
 ![Alpaca Approved](https://img.shields.io/badge/alpaca-approved-ff69b4)
 ![Open Source Love](https://img.shields.io/badge/open--source-%E2%9D%A4-red)
+![Alpacas Classified](https://img.shields.io/badge/alpacas%20classified-137,842-blue)
 ![Status](https://img.shields.io/badge/status-questioning%20reality-yellow)
 ![Maintained](https://img.shields.io/badge/maintained-yes-success)
 ![Philosophy](https://img.shields.io/badge/philosophy-deep-lightgrey)
 
 > *No todas las decisiones técnicas son técnicas.*  
 > Algunas… pastan en silencio antes de revelarse.
-
 ---
 
 ## 🧠 What is this?
@@ -50,7 +50,9 @@ Luego aplicamos:
 
 Y dejamos que los datos hablen.
 
-Spoiler: hablaron demasiado.
+**Spoiler:** hablaron demasiado.
+
+> *Dataset growing faster than our understanding.*
 
 ---
 
