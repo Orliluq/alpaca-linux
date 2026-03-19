@@ -161,7 +161,7 @@ pip install -r requirements.txt
 
 Luego abre:
 ```
-notebooks/alpaca_experiment.ipynb
+notebooks/Alpaca - Linux.ipynb
 ```
 
 Y observa cómo emergen los patrones.
