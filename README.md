@@ -154,8 +154,8 @@ Lo que sí demuestra:
 ## 🚀 Run it yourself
 
 ```bash
-git clone https://github.com/your-repo/alpaca-ml-linux
-cd alpaca-ml-linux
+git clone https://github.com/Orliluq/alpaca-linux.git
+cd alpaca-linux
 pip install -r requirements.txt
 ```
 
