@@ -198,3 +198,25 @@ Si este modelo tuviera que clasificarte… 👉 ¿qué tipo de alpaca serías?
 ## 🏷️ Final Note
 
 Este proyecto empezó como una broma. Terminó siendo una observación incómoda: Nunca fue sobre Linux. Es sobre nosotros.
+
+---
+
+## 🦙💻 De Alpacas a Linux
+
+> *Un experimento de Machine Learning que terminó explicando cómo pensamos los ingenieros.*
+
+[![Alpaca ML Video](https://img.youtube.com/vi/rjyoaDPYjlI/maxresdefault.jpg)](https://www.youtube.com/watch?v=rjyoaDPYjlI)
+
+---
+
+🎬 **Ver ahora →** https://www.youtube.com/watch?v=rjyoaDPYjlI
+
+--- 
+
+## 📜 Licencia
+### MIT
+
+---
+
+## ✨ Autor
+Construido por Orli 🧠⚡
